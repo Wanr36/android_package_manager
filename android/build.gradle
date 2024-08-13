@@ -25,7 +25,8 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
-    namespace 'com.example.android_package_manager'
+    //lab.neruno.android_package_manager
+    namespace 'lab.neruno.android_package_manager'
     compileSdkVersion 34
 
     compileOptions {
